@@ -33,4 +33,4 @@
 
 ****
 <h3 align="left">Certifications:</h3>
-<img align="center" src="/Images/Khuluza Microsoft AI Skills Hackathon - 20250520174509.png" width="500" height="550"/>
+<img align="center" src="/Images/Khuluza Microsoft AI Skills Hackathon - 20250520174509.png" width="500" height="300" />
