@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Java Insurance Management System**
 
-- 🌱 I’m currently learning **React and Next.js**
+- 🌱 I’m currently learning **React and Python**
 
 - 💬 Ask me about **Java,JavaScript & Python**
 
