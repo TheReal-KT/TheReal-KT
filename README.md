@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khuluza Tshabalala</h1>
-<h3 align="center">A passionate student learning Full-Stack Development in South Afica</h3>
+<h3 align="center">A passionate student learning Full-Stack Development in South Africa</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thereal-kt&label=Profile%20views&color=0e75b6&style=flat" alt="thereal-kt" /> </p>
 
