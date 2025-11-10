@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thereal-kt" alt="thereal-kt" /></a> </p>
 
-- 🔭 I’m currently working on **Java Insurance Management System**
+- 🔭 I’m currently working on **SaaS Agentic Platform**
 
-- 🌱 I’m currently learning **React and Python**
+- 🌱 I’m currently learning **React and Langchain**
 
 - 💬 Ask me about **Java,JavaScript & Python**
 
